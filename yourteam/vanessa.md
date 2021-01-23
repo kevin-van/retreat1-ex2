@@ -1,9 +1,9 @@
 ## Introduction
 
 ---
-Name: Vanessa Chen
-Age: 20
-Major: Software Engineering
+name: Vanessa Chen
+age: 20
+major: Software Engineering
 ---
 
 ## Extra
