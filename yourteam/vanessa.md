@@ -1,5 +1,3 @@
-## Introduction
-
 ---
 name: Vanessa Chen
 age: 20
